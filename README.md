@@ -1,0 +1,1 @@
+This is an example of a basic Spring MVC project using xml configuration files. 
